@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Zhipeng Luo / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhipeng Luo"
-description              : &description "an associate professor of department of computer science with Minnan Normal University"
+name                     : "Zhipeng Luo" &name 
+description              : "An associate professor of department of computer science with Minnan Normal University" &description 
 url                      : "https://zpluoxmu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zpluoxmu/zpluoxmu.github.io"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "zpluo.png"
   name             : "Zhipeng Luo"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "He/his"  
+  bio              : "An associate professor of department of computer science with Minnan Normal University"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
