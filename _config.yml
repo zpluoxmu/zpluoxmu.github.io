@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Zhipeng Luo / Personal Homepage"
 title_separator          : "-"
-name                     : "Zhipeng Luo" &name 
-description              : "An associate professor of department of computer science with Minnan Normal University" &description 
+name                     : "Zhipeng Luo" 
+description              : "An associate professor of department of computer science with Minnan Normal University"  
 url                      : "https://zpluoxmu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zpluoxmu/zpluoxmu.github.io"
