@@ -15,11 +15,18 @@ Assoc. Prof. Zhipeng Luo (罗智鹏) received the Ph.D. degree in photogrammetry
 
 研究兴趣
 ======
-计算机三维视觉；点云智能分析与处理；三维空间建模及其在智慧城市中的应用；智慧交通及自动驾驶的可信感知与高效计算
+计算机三维视觉；点云智能分析与处理；三维空间建模及其在智慧城市中的应用；智慧交通及自动驾驶的可信感知与高效计算。
 
-Site-wide configuration
+招生
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1 目前还有名额。
+2 若对上述研究方向有兴趣同学可提早联系。
+3 课题组目前培养模式：
+  a. 刚入门的研一同学，会有非常具体且难度合适的小课题作为练手，该课题一般为上一届某课题的延续。一般研一下完成第一篇论文投稿。
+  b. 研一结束暑假进入大量阅读文献阶段，同时会不定期开展本方向论文阅读组会，并尝试自己提出想法。
+  c. 研二上完成自己提出的想法，全程将有上一届同方向师兄姐及我一起帮忙改进想法。
+  d. 研二下投出第二篇论文。
+  e. 研二暑假至毕业，根据个人未来发展方向制定规划。若有志于读博，将继续深耕本课题，并推荐至相关高校读博。若考公、考编或去公司企业，将给予最大限度支持。
 
 Create content & metadata
 ------
