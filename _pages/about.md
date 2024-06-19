@@ -13,14 +13,9 @@ Assoc. Prof. Zhipeng Luo (罗智鹏) received the Ph.D. degree in photogrammetry
 ======
 罗智鹏，博士，副教授，师从加拿大科学院院士、滑铁卢大学李军教授，于2020年从厦门大学获博士学位。博士期间于智慧城市感知与计算重点实验室，主要研究面向自动驾驶的三维激光扫描点云数据智能处理与分析；毕业后加入香港理工大学智慧城市研究院从事博士后研究，合作导师为国际欧亚科学院院士史文中教授。2023年加入闽南师范大学计算机学院。目前主持一项国家自然科学基金青年项目，已在领域顶级期刊和会议发表学术论文30余篇，博士学位论文获省优秀博士学位论文，并被国际数字地球学会评为2022年全国激光雷达优秀博士学位论文。
 
-Getting started
+研究兴趣
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+计算机三维视觉；点云智能分析与处理；三维空间建模及其在智慧城市中的应用；智慧交通及自动驾驶的可信感知与高效计算
 
 Site-wide configuration
 ------
