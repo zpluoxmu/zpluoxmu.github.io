@@ -42,6 +42,9 @@ Assoc. Prof. Zhipeng Luo (罗智鹏) received the Ph.D. degree in photogrammetry
 ------
 **1 城市道路场景可信感知与高效计算课题组**： 围绕城市道路场景理解，针对可信感知与高效计算任务，构建低标注样本依赖的点云智能分析系统  
 **2 数据科学与智能应用福建省高校重点实验室（Key Laboratory of Data Science and Intelligence Application, Fujian Province University）**： 包括了来自计算机专业、数学专业人员，主要由闽南师范大学计算机学院组建；实验室围绕数据科学与大数据应用，针对相关问题展开研究  
+**3 机器学习与优化研究中心（MOC，Machine learning and Optimizing Center）**：包括了来自数学专业、计算机专业人员，由闽南师范大学和深圳鹏城国家重点实验室组建；实验室围绕芯片设计，针对相关优化问题展开研究，主要面向行业相关核心科学问题  
+**4 遥感智能感知与计算实验室（RSIPC, Remote Sensing Intelligent Perception and Computing）**:由加拿大滑铁卢大学李军院士领衔，中山大学、南京信息工程大学、中央财经大学、集美大学和闽南师范大学人员构成； 主要面向自动驾驶核心算法设计和技术研发  
+
 
 
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
