@@ -30,8 +30,9 @@ Assoc. Prof. Zhipeng Luo (罗智鹏) received the Ph.D. degree in photogrammetry
   e. 研二暑假至毕业，根据个人未来发展方向制定规划。若有志于读博，将支持继续深耕本课题，并推荐至相关高校读博。也支持考公、考编或去公司企业。  
 3 欢迎本科生加入课题组，参与模式灵活，可根据每个人具体情况安排任务，或偷塔或补刀或辅助均可。
 
-Create content & metadata
+近五年代表性论著
 ------
+[1] Luo Z, *Li J, et al. Learning high-level features by fusing multi-view representation of MLS point clouds for 3D object recognition in road environments[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2019, pp:150-166. (1 区top SCI, IF: 12.7)  
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
