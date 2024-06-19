@@ -22,7 +22,7 @@ Assoc. Prof. Zhipeng Luo (罗智鹏) received the Ph.D. degree in photogrammetry
 
 组队说明
 ------
-1 目前还有名额(2024年秋季入学，排位模式)。若对上述研究方向有兴趣同学可提早上车。
+1 目前还有名额(2024年秋季入学，排位模式)。若对上述研究方向有兴趣同学建议提早上车。
 
 2 课题组目前培养模式（速通流）：
 
@@ -35,6 +35,8 @@ Assoc. Prof. Zhipeng Luo (罗智鹏) received the Ph.D. degree in photogrammetry
   d. 研二下投出第二篇论文。
   
   e. 研二暑假至毕业，根据个人未来发展方向制定规划。若有志于读博，将继续深耕本课题，并推荐至相关高校读博。若计划考公、考编或去公司企业，将给予最大限度支持。
+
+3 欢迎本科生加入课题组，参与模式灵活，可根据每个人具体情况安排任务，或偷塔或补刀或辅助都行。
 
 Create content & metadata
 ------
